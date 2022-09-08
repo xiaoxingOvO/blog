@@ -11,6 +11,8 @@ export default defineUserConfig({
     theme: defaultTheme({
         //logo: '/xing.png', //Logo 图片
         repo: 'https://github.com/xiaoxingOvO/blog', //github仓库
+        lastUpdated: false,
+        contributors: false,
 
         //导航栏
         navbar: [
